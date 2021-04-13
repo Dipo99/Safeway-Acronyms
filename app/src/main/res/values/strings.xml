@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Acromine</string>
+
+    <string name="hint_acronym">Enter Acronym</string>
+    <string name="btn_search">Search</string>
+
+    <string name="tv_welcome_title">Welcome to Acromine!</string>
+    <string name="tv_welcome_text">Search for Fullforms by entering your Abbreviations above</string>
+
+    <string name="menu_search">Search</string>
+
+    <string name="ALERT_BUTTON_CLOSE">Close</string>
+    <string name="NO_DATA">No data found!</string>
+    <string name="CONNECTION_ERROR">The internet connection appears to be offline.</string>
+    <string name="SERVER_ERROR">We are having trouble connecting to server. Please try again later.</string>
+
+    <string name="title">%1$s - %2$s</string>
+    <string name="tv_description">Since: %1$d \t|\t Freq: %2$d</string>
+</resources>
